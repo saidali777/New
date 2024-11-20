@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/68d28011b2bc356b5db01.png" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
-  <b> Lazy PrincessV2.0 </b>
+  <b> BOT </b>
 </h1>
 
 
@@ -133,9 +133,6 @@ python3 bot.py
  - 🔺 Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot).
  - Thanks To All Everyone In This Journey
 
-### Note
-
-[Join Developer Channel](https://telegram.dog/LazyDeveloper): LazyDeveloper
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
