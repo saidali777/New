@@ -22,8 +22,8 @@ Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how su
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: KOYEB
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ LazyPrincess ]"""
-    SOURCE_TXT = """<b>LazyPrincess is an open source project</b>
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ BOT ]"""
+    SOURCE_TXT = """<b>Bot is an open source project</b>
 
 You can easily get its source code from github - <a href='https://github.com/LazyDeveloperr/LazyPrincessV2'>LazyDeveloperr</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
