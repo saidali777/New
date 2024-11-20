@@ -13,8 +13,8 @@ def is_enabled(value, default):
 # Bot information
 SESSION = environ.get('SESSION', 'LazyPrincess')
 API_ID = int(environ.get('API_ID', '12618934'))
-API_HASH = environ.get('API_HASH', '')
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+API_HASH = environ.get('API_HASH', '49aacd0bc2f8924add29fb02e20c8a16')
+BOT_TOKEN = environ.get('BOT_TOKEN', "7548204664:AAHEyNp-f6-iZEeQ3H08P27T9suQtWo4LrE")
 
 #Port
 PORT = environ.get("PORT", "8080")
